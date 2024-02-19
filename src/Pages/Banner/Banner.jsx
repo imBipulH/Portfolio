@@ -25,7 +25,7 @@ const Banner = () => {
             <div className='font-pops'>
               <div className='text-[138px]'>
                 <h1 className='leading-tight my-2 font-extralight'>Bipul
-                <span className='block text-secondary'>Hajong</span>
+                <span className='block text-transparent bg-clip-text bg-gradient-to-r from-secondary via-orange-400 to-red-500'>Hajong</span>
                 </h1>
               </div>
               <p className='text-3xl font-light leading-snug my-4'>MERN developer | JavaScript Enthusiast</p>

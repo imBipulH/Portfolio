@@ -5,8 +5,8 @@ const About = () => {
   return (
     <>
       <div className=' bg-primary'>
-        <div className='bg-primary text-white  w-full'>
-          <div className='container  p-4'>
+        <div className='bg-primary text-white w-full'>
+          <div className='container p-4'>
             {/* <div className='flex justify-between items-center'>
               <h3 className='text-3xl uppercase font-thin tracking-widest'>
                 Bipul
@@ -42,8 +42,8 @@ const About = () => {
                 <h2 className='text-2xl'>About Me</h2>
                 <p className='text-lg'>
                   <span className='text-2xl '>I</span> am Bipul Hajong. I
-                  started my career at sales and marketting when I was 18. I
-                  used to do full time job and study together. I worked there
+                  started my career in sales and marketting when I was 18. I
+                  did full time job and study together. I worked there
                   for 8 years and 2.6 year as a store manager. Then I realize
                   that I am very much potential at coding, problem solving,
                   create new things. I choose to learn MERN stack development
@@ -66,7 +66,7 @@ const About = () => {
                   <div className='pl-4'>
                     <div className='mb-2'>
                       <p className='font-semibold text-lg'>Address</p>
-                      <p className='text-gray-400'>Mohammadpur, Dhaka</p>
+                      <p className='text-gray-400'>Mohammadpur, Dhaka 1207</p>
                     </div>
                     <div className='mb-2'>
                       <p className='font-semibold text-lg'>Degree</p>
